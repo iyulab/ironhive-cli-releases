@@ -1,5 +1,19 @@
 ## License
 
-Free to use for personal and commercial purposes.
-Source code is proprietary. Redistribution prohibited.
-© 2026 iyulab
+Copyright (c) 2026 iyulab. All rights reserved.
+
+### Terms of Use
+
+**Permitted**  
+Free to use for personal and commercial purposes.  
+개인 및 상업적 목적의 무료 사용
+
+**Prohibited**  
+Source code is proprietary. Redistribution and reverse engineering are prohibited.  
+소스코드 비공개. 재배포 및 역공학 금지
+
+### Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL IYULAB BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+본 소프트웨어는 "있는 그대로(AS IS)" 제공되며, 명시적이든 묵시적이든 어떠한 종류의 보증도 포함하지 않습니다. 상품성, 특정 목적에의 적합성, 비침해성에 대한 보증을 포함하되 이에 국한되지 않습니다. 어떠한 경우에도 iyulab은 본 소프트웨어의 사용 또는 사용 불능으로 인해 발생하는 직접적, 간접적, 부수적, 특수적, 징벌적 또는 결과적 손해에 대해 책임지지 않습니다.
