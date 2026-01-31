@@ -58,4 +58,4 @@ ironhive update
 
 ## License
 
-MIT
+[License](./LICENSE)
